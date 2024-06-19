@@ -1,2 +1,2 @@
 # rhoai
-AI deployment using RHOAI
+AI deployments using RHOAI
